@@ -1,0 +1,52 @@
+{
+  "name": "conversationjs",
+  "preferGlobal": true,
+  "version": "1.0.0",
+  "author": {
+    "name": "Muaz Khan",
+    "email": "muazkh@gmail.com",
+    "url": "http://www.muazkhan.com/"
+  },
+  "description": "Conversation.js is inspired by skype; and it provides simple events-like API to manage conversations, enable/disable media devices; add/download files; and do anything supported by Skype.",
+  "scripts": {
+    "start": "node conversation.js"
+  },
+  "main": "./conversation.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/muaz-khan/Conversation.git"
+  },
+  "keywords": [
+    "webrtc",
+    "conversation",
+    "conversation.js",
+    "conversationjs",
+    "rtcmulticonnection",
+    "webrtc-library",
+    "library",
+    "javascript",
+    "chrome",
+    "firefox",
+    "opera",
+    "ie",
+    "internet-explorer",
+    "android",
+    "rtcweb",
+    "rtcmulticonnection.js",
+    "multirtc",
+    "webrtc-experiment",
+    "javascript-library",
+    "muaz",
+    "muaz-khan"
+  ],
+  "analyze": false,
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/muaz-khan/Conversation/issues",
+    "email": "muazkh@gmail.com"
+  },
+  "homepage": "https://www.webrtc-experiment.com/Conversationjs/",
+  "_id": "conversationjs@1.0.0",
+  "_from": "conversationjs@"
+}
